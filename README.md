@@ -15,7 +15,7 @@ This project presents an advanced deep learning approach for multiclass brain tu
 - **Report:** [Project Report](https://github.com/BRAIN-Lab-AI/3DGen-Diffusion-Models-for-3D-Object-Generation/blob/main/Brain%20Tumor%20Classification%20and%20Detection.pdf)
 
 ### Reference Papers
-- [High-Resolution Image Synthesis with Latent Diffusion Models](https://arxiv.org/abs/2112.10752)
+- [Pretrained DeIT for Brain Tumor Classification: A Fine-Tuning Approach with Label Smoothing]([https://arxiv.org/abs/2112.10752](https://ieeexplore.ieee.org/document/10725957))
 
 ### Reference Datasets
 - [Nickparvar Brain Tumor MRI Dataset](https://www.kaggle.com/datasets/guslovesmath/tumor-classification-99-7-tensorflow-2-16)
