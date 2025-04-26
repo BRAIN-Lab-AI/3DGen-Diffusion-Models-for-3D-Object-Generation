@@ -15,7 +15,7 @@ Enhanced Stable Diffusion is a cutting-edge deep learning project that redefines
 
 ### Project Documents
 - **Presentation:** [Project Presentation](/presentation.pptx)
-- **Report:** [Project Report](/report.pdf)
+- **Report:** [Project Report](https://github.com/BRAIN-Lab-AI/3DGen-Diffusion-Models-for-3D-Object-Generation/blob/main/Brain%20Tumor%20Classification%20and%20Detection.pdf)
 
 ### Reference Paper
 - [High-Resolution Image Synthesis with Latent Diffusion Models](https://arxiv.org/abs/2112.10752)
