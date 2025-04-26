@@ -82,29 +82,7 @@ This repository provides the following components:
    - Grad-CAM visualizations highlight regions important for predictions.
 
 ## How to Run the Code
-
-1. **Clone the Repository:**
-    ```bash
-    git clone https://github.com/yourusername/brain-tumor-ensemble.git
-    cd brain-tumor-ensemble
-    ```
-
-2. **Set Up the Environment:**
-    ```bash
-    python3 -m venv venv
-    source venv/bin/activate  # On Windows use: venv\Scripts\activate
-    pip install -r requirements.txt
-    ```
-
-3. **Train the Model:**
-    ```bash
-    python train.py --config configs/train_config.yaml
-    ```
-
-4. **Generate Grad-CAM Visualizations:**
-    ```bash
-    python grad_cam.py --checkpoint path/to/checkpoint.pt --input path/to/mri_image.jpg
-    ```
+**  Use kaggle and upload the jupyter notebooks and run the cells**
 
 ## Acknowledgments
 - **Open-Source Communities:** Thanks to TensorFlow, PyTorch, and Kaggle Datasets contributors.
