@@ -124,13 +124,13 @@ This project presents an advanced deep learning approach for multiclass brain tu
 ## Project Metadata
 
 ### Authors
-- **Team:** [Your Team Names]
-- **Supervisor Name:** [Supervisor Name]
+- **Team:** [Hassan Algizani, Malik Ibrahim, Abdulrahman Kamili]
+- **Supervisor Name:** [Dr.Muzammil Behzah]
 - **Affiliations:** [Your Affiliations]
 
 ### Project Documents
 - **Presentation:** [Project Presentation](/presentation.pptx)
-- **Report:** [Project Report](/report.pdf)
+- **Report:** [Project Report](https://github.com/BRAIN-Lab-AI/3DGen-Diffusion-Models-for-3D-Object-Generation/blob/main/Brain%20Tumor%20Classification%20and%20Detection.pdf)
 
 ### Reference Papers
 - [High-Resolution Image Synthesis with Latent Diffusion Models](https://arxiv.org/abs/2112.10752)
