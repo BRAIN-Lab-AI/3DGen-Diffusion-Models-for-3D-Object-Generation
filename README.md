@@ -61,7 +61,7 @@ This repository provides the following components:
 - **`brain_tumor_classification-paper-author-work.ipynb`**: Author Original Notebook.
 - **`experiment1_ensemble_CNN.ipynb`**: Experiment 1:CNN Ensemble.
 - **`experiment2_ensemble_transformer.ipynb`**: Experiment 2:Vision Transformer Ensemble.
-- **`deit_baseline,pth`**: [fine tuned deit model](https://kfupmedusa-my.sharepoint.com/:u:/g/personal/g202403940_kfupm_edu_sa/EQPlNF4H-xBAhWKPjb4z2AIBP1FcFAEHsVnamQLd8L3HwQ?e=3Mn6oQ).
+- **`deit_baseline.pth`**: [fine tuned deit model](https://kfupmedusa-my.sharepoint.com/:u:/g/personal/g202403940_kfupm_edu_sa/EQPlNF4H-xBAhWKPjb4z2AIBP1FcFAEHsVnamQLd8L3HwQ?e=3Mn6oQ).
 - **`Experiment1_CNN.h5`**:[Experiment 1: CNN Ensemble Model](https://kfupmedusa-my.sharepoint.com/:u:/g/personal/g202403940_kfupm_edu_sa/Ed1beUnfhWpKmoNTV0NK6QoB1Fd6XLIkVgY3ux3NIQCGXw?e=TYkb3k)
 - **`Experiment2_Vision_Transformer.keras`**: [Experiment 2: Vision Transformer Ensemble Model](https://kfupmedusa-my.sharepoint.com/:u:/g/personal/g202403940_kfupm_edu_sa/EbelpNvC5Q9CsivckVyHxl4BxCURa-VGJ-kMRdr3KvWMRQ?e=ePv6sT).
 
