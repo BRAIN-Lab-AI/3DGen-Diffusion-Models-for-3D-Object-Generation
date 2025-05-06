@@ -11,7 +11,7 @@ This project presents an advanced deep learning approach for multiclass brain tu
 - **Affiliations:** [Your Affiliations]
 
 ### Project Documents
-- **Presentation:** [Project Presentation](/presentation.pptx)
+- **Presentation:** [Project Presentation](https://github.com/BRAIN-Lab-AI/3DGen-Diffusion-Models-for-3D-Object-Generation/blob/main/Brain_Tumour_Final%20(1).pptx)
 - **Report:** [Project Report](https://github.com/BRAIN-Lab-AI/3DGen-Diffusion-Models-for-3D-Object-Generation/blob/main/Brain%20Tumor%20Classification%20and%20Detection.pdf)
 
 ### Reference Papers
