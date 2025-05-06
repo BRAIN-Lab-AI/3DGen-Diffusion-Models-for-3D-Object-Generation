@@ -82,7 +82,7 @@ This repository provides the following components:
    - Grad-CAM visualizations highlight regions important for predictions.
 
 ## How to Run the Code
-**  Use kaggle and upload the jupyter notebooks and run the cells**
+**Use kaggle and upload the jupyter notebooks and run the cells**
 
 ## Acknowledgments
 - **Open-Source Communities:** Thanks to TensorFlow, PyTorch, and Kaggle Datasets contributors.
